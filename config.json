@@ -1,0 +1,38 @@
+{
+  "version": "0.0.1",
+  "name": {
+    "ja": "勤怠プラグイン",
+    "en": "kintai"
+  },
+  "description": {
+    "ja": "じぇじぇじぇ",
+    "en": "jejeje"
+  },
+  "homepage_url": {
+    "ja": "",
+    "en": ""
+  },
+  "required_params": [],
+  "entryFiles": {
+    "public": "src/public",
+    "js": {
+      "config": "src/config.ts",
+      "mobile": "src/plugin.ts",
+      "desktop": "src/plugin.ts"
+    }
+  },
+  "dev": {
+    "baseUrl": "https://devyofqwx.cybozu.com",
+    "auth": {
+      "username": "阿部",
+      "password": "nn83n0on"
+    }
+  },
+  "prod": {
+    "baseUrl": "https://devyofqwx.cybozu.com",
+    "auth": {
+      "username": "阿部",
+      "password": "nn83n0on"
+    }
+  }
+}
