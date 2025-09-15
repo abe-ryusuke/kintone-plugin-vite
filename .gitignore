@@ -1,2 +1,6 @@
 node_modules/
 dist/
+
+# Kintone plugin build artifacts
+*.zip
+*.ppk
