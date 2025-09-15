@@ -18,7 +18,7 @@
     "js": {
       "config": "src/config.ts",
       "mobile": "src/plugin.ts",
-      "desktop": "src/plugin.ts"
+      "desktop": "src/desktop.ts"
     }
   },
   "dev": {
